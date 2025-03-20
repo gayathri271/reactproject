@@ -4,7 +4,6 @@ import {getAuth} from 'firebase/auth'
 import { getDatabase } from "firebase/database";
 
 
-
 const firebaseConfig = {
   apiKey: "AIzaSyA2fQLUqk2TJUqaq-Q7plETGnlvX2codsE",
   authDomain: "react-project-c2e5d.firebaseapp.com",
